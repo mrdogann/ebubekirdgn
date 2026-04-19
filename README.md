@@ -1,33 +1,94 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&color=1E62F7&size=28&center=true&width=550&lines=Hi+There!%F0%9F%96%90;I'm+Ebubekir+%F0%9F%91%88;I'm+a+Computer+Engineer+%F0%9F%92%BB%E2%8C%A8%EF%B8%8F+)](https://git.io/typing-svg)   
-        
- </center>      
- 
-<img align="right" alt="GIF" src="https://github.com/ebubekirdgn/ebubekirdgn/blob/main/img/coder.gif" width="360px"/>   
+<div align="center">
 
+<!-- Animated Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B;I'm+Ebubekir+Do%C4%9Fan;Computer+Engineer+%26+Full-Stack+Dev;Always+building+something+new+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
+<br/>
 
-## 📊 Github stats <img src="https://komarev.com/ghpvc/?username=ebubekirdgn&label=Profile%20views&color=0e75b6&style=flat" alt="ebubekirdgn" />
-<hr>
+<!-- Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=ebubekirdgn&color=378ADD&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/ebubekirdgn?style=flat-square&color=378ADD)](https://github.com/ebubekirdgn)
+![GitHub User's stars](https://img.shields.io/github/stars/ebubekirdgn?style=flat-square&color=1D9E75)
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebubekirdgn" alt="ebubekirdgn" /></a> </p>
+---
 
-<p align="center">
-<!--
-<a href="https://github.com/PrinceGoblinTech?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api?username=ebubekirdgn&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@ebubekirdgn's github-readme-stats"/></a>
--->
-</p>
+## 🧑‍💻 About Me
 
-<p align="center">
-   <a href="https://wakatime.com/@Goblin8888">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebubekirdgn&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
+```txt
+📍 Ankara, Türkiye
+🎓 Computer Engineering Graduate
+💼 Full-Stack Developer (.NET + React)
+☕ Coffee-powered code machine
+🚀 Currently exploring Clean Architecture & DDD
+🌱 Always learning — always shipping
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebubekirdgn&show_icons=true&locale=en&layout=compact" alt="ebubekirdgn" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebubekirdgn&show_icons=true&locale=en" alt="ebubekirdgn" /></p>
+## 🛠 Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebubekirdgn&" alt="ebubekirdgn" /></p>
+**Backend**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+
+**Database & DevOps**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ebubekirdgn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=1D9E75&text_color=c9d1d9&rank_icon=github" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirdgn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=c9d1d9" width="40%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ebubekirdgn&theme=tokyonight&hide_border=true&background=0d1117&ring=378ADD&fire=EF9F27&currStreakLabel=378ADD" width="55%" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ebubekirdgn&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ebubekirdgn&bg_color=0d1117&color=378ADD&line=1D9E75&point=EF9F27&area=true&hide_border=true&custom_title=Contribution+Activity)](https://github.com/ebubekirdgn)
+
+[![Snake animation](https://github.com/ebubekirdgn/ebubekirdgn/blob/output/github-contribution-grid-snake-dark.svg)](https://github.com/ebubekirdgn)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
