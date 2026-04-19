@@ -11,7 +11,6 @@
         </a> 
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 ## 📊 Github stats <img src="https://komarev.com/ghpvc/?username=ebubekirdgn&label=Profile%20views&color=0e75b6&style=flat" alt="ebubekirdgn" />
 <hr>
