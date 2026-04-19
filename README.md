@@ -3,12 +3,6 @@
  </center>                                         
 <img align="right" alt="GIF" src="https://github.com/ebubekirdgn/ebubekirdgn/blob/main/img/coder.gif" width="360px"/>                    
                    
-### More About Me                          
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ebubekirdgn?tab=repositories)             
-               
-<br>                 
-<hr>                      
-     
 ## 📊 Github stats <img src="https://komarev.com/ghpvc/?username=ebubekirdgn&label=Profile%20views&color=0e75b6&style=flat" alt="ebubekirdgn" />
 <hr>
  
@@ -26,9 +20,6 @@
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebubekirdgn&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebubekirdgn&show_icons=true&locale=en&layout=compact" alt="ebubekirdgn" /></p>
 
